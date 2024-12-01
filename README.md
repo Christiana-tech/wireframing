@@ -1,4 +1,3 @@
-# wireframing
 # Wireframing
 
 ## Introduction
@@ -52,5 +51,49 @@ Wireframes consist of several essential elements that define the structure and u
    - Functionality includes interactive elements such as forms, search bars, dropdown menus, and buttons.
    - **Example**: A login form with fields for "Username" and "Password" allows users to access their accounts.
    - **Contribution**: Enhances user interaction and ensures the design meets functional requirements.
+
+---
+
+
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+
+Low-fidelity wireframes are basic, simplified representations of the interface, often created with minimal detail. They are typically used early in the design process to explore ideas, define the structure, and gather initial feedback.
+
+**Characteristics:**
+- Simple sketches or digital drawings.
+- Focus on layout and basic functionality.
+- Use placeholders for content and imagery.
+- Often in black and white or simple grayscale.
+
+**When to Use:**
+- Early stages of the project to establish layout and flow.
+- When the goal is to test concepts or gather initial feedback without spending time on details.
+- In brainstorming or collaboration sessions to discuss basic ideas.
+
+### High-Fidelity Wireframes
+
+High-fidelity wireframes are more detailed and realistic representations of the final UI. They include accurate spacing, fonts, colors, and more specific content. These wireframes are typically used later in the design process to refine and finalize the design.
+
+**Characteristics:**
+- Detailed visual elements and design specifications.
+- Precise layout with accurate spacing and alignment.
+- Includes realistic content (images, text, branding).
+- Often used for user testing and development handoffs.
+
+**When to Use:**
+- Once the layout is finalized and the design is refined.
+- When it is necessary to present a near-final version for stakeholder approval or user testing.
+- For the transition from design to development, where the focus is on specifics.
+
+## What Type of Wireframe is This?
+
+The wireframe used in this repository represents a **High-Fidelity Wireframe**.
+
+**Reasoning**:
+- It includes detailed design elements like spacing, layout, and realistic content, offering a more refined and polished version of the UI.
+- The wireframe is closer to the final design, incorporating specific fonts, button styles, and interactive elements.
+- It serves as a near-final prototype for user testing, stakeholder approval, and handoff to developers for implementation.
 
 ---
